@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartButlet</string>
+    <string name="tab_name_0">Butlet</string>
+    <string name="tab_name_1">WeChat</string>
+    <string name="tab_name_2">Beautiful Girls</string>
+    <string name="tab_name_3">User Center</string>
+    <string name="text_setting">Settings</string>
+</resources>
