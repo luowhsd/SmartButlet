@@ -45,7 +45,7 @@ public class SplashActivity extends AppCompatActivity {
                         //跳转刀引导页;
                         startActivity(new Intent(SplashActivity.this,GuideActivity.class));
                     }else{
-                        startActivity(new Intent(SplashActivity.this,GuideActivity.class));
+                        startActivity(new Intent(SplashActivity.this,LoginActivity.class));
                     }
                     finish();
                     break;

@@ -40,6 +40,14 @@
             android:theme="@style/NoActionBarFullScreen"
             />
 
+        <!--登录页-->
+        <activity android:name=".ui.LoginActivity"
+            android:theme="@style/NoActionBarFullScreen"
+            />
+
+        <!--注册页-->
+        <activity android:name=".ui.RegisterActivity"/>
+
     </application>
 
 </manifest>
